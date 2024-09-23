@@ -196,3 +196,11 @@ nav ul li a:hover {
     background-color: white;
     color: #3882f6
 }
+
+footer{
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-family: 'Roboto';
+    text-align: center;
+    padding: 25px 10% 25px 10%;
+}
