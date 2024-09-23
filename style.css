@@ -4,7 +4,7 @@ body {
 
 nav {
     background-color: #1F2937;
-    padding: 10px;
+    padding: 0% 10% 0% 10%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -125,4 +125,29 @@ nav ul li a:hover {
     width: 75%;
     border: 5px solid #3882f6;
     border-radius: 20px;
+}
+
+#quote{
+    background-color: #e5e7eb;
+    padding: 10% 20% 10% 20%;
+}
+
+#quote p{
+    font-family: 'Roboto';
+}
+
+#quote-text{
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+#quote-by{
+    font-weight: bold;
+    color: black;
+    font-size: 21px;
+    text-align: right;
+    margin-top: 0;
 }
