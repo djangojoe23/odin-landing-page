@@ -99,3 +99,30 @@ nav ul li a:hover {
     display: flex;
     justify-content: center;
 }
+
+#info ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+}
+
+#info ul li p{
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 15px;
+    color: #1f2937;
+    padding: 0% 10% 0% 10%;
+}
+
+#info img{
+    width: 75%;
+    border: 5px solid #3882f6;
+    border-radius: 20px;
+}
